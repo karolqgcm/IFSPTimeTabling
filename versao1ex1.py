@@ -23,7 +23,9 @@ listMaterias = []
 
 for item in dictCargaTurma:
     listMaterias.append(item["sigla"])
-    
+
+GERACAO = 0
+
 def criarIndividuo():
     individuo = []
     for i in range(2):
@@ -35,20 +37,63 @@ def criarIndividuo():
     return individuo
     
 
-def criarPopulacao(numeroIndividuos):
+def criarPopulacaoInicial(numeroIndividuos):
     populacao = []
     for i in range(numeroIndividuos):
         populacao.append(criarIndividuo())
     return populacao
 
+def crossOver(populacao, numeroCruzamentos):
+    
+    for cruzamento in range(numeroCruzamentos):
+        mae = random.choice(populacao)
+        pai = random.choice(populacao)
+        
+        if mae != pai:
+            filho = [mae[0], pai[1], 0]
+            populacao.append(filho)
+        else:
+            cruzamento += 1
+    return populacao
+random.randint
+def mutacao(populacao, porcentagemMutacao):
+    for individuo in populacao:
+        print("antes ")
+        print(individuo)
+        if random.randint(0,100) <= porcentagemMutacao:
+            p = random.choice(listProfessores)
+            d = random.choice(listMaterias)
+            gene = [p, d]
+            individuo[1] = gene
+            print("depois ")
+            print(individuo)
+    return populacao
+
+def selecao(numeroIndividuos, populacao):
+    populacao.sort(key=lambda x: x[2], reverse=True)    
+    populacao = populacao[:numeroIndividuos]
+    return populacao
 
 def fitness(populacao):
     for individuo in populacao:
         if individuo[0][0]==individuo[1][0]:
             individuo[2] += 10
+        if individuo[0][1]==individuo[1][1]:
+            individuo[2] += 10   
+        if individuo[0][1]==individuo[1][1] and individuo[0][0]!=individuo[1][0] or individuo[0][1]!=individuo[1][1] and individuo[0][0]==individuo[1][0]:
+            individuo[2] -= 30
+        for i in range(2):
+            materias=(item["materias"] for item in dictProfessores if item["nome"] == individuo[i][0]).next()
+            for materia in materias:
+                if materia == individuo[i][1]:
+                    individuo[2] += 15
+                
+
         print(individuo)
-        
-fitness(criarPopulacao(3))
-
-
-        
+    print(len(populacao))
+pop = criarPopulacaoInicial(10)
+pop = crossOver(pop, 5)
+pop = mutacao(pop, 10)
+fitness(pop)
+pop2=selecao(10,pop)
+print(pop2)
