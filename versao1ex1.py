@@ -24,7 +24,6 @@ listMaterias = []
 for item in dictCargaTurma:
     listMaterias.append(item["sigla"])
 
-GERACAO = 0
 
 def criarIndividuo():
     individuo = []
@@ -55,18 +54,15 @@ def crossOver(populacao, numeroCruzamentos):
         else:
             cruzamento += 1
     return populacao
-random.randint
+
+
 def mutacao(populacao, porcentagemMutacao):
-    for individuo in populacao:
-        print("antes ")
-        print(individuo)
+    for individuo in populacao:        
         if random.randint(0,100) <= porcentagemMutacao:
             p = random.choice(listProfessores)
             d = random.choice(listMaterias)
             gene = [p, d]
             individuo[1] = gene
-            print("depois ")
-            print(individuo)
     return populacao
 
 def selecao(numeroIndividuos, populacao):
@@ -86,14 +82,36 @@ def fitness(populacao):
             materias=(item["materias"] for item in dictProfessores if item["nome"] == individuo[i][0]).next()
             for materia in materias:
                 if materia == individuo[i][1]:
-                    individuo[2] += 15
-                
+                    individuo[2] += 15               
 
-        print(individuo)
-    print(len(populacao))
-pop = criarPopulacaoInicial(10)
-pop = crossOver(pop, 5)
-pop = mutacao(pop, 10)
-fitness(pop)
-pop2=selecao(10,pop)
-print(pop2)
+        
+    
+def maxFitness(populacao):
+    return max([individuo[-1] for individuo in populacao])
+
+def minFitness(populacao):
+    return min([individuo[-1] for individuo in populacao])
+
+def midFitness(populacao):
+    return sum([individuo[-1] for individuo in populacao])/len(populacao)
+
+def criarG1(nIndividuosPopInicial, nCruzamentos, porcentagemMutacao, nGeracoes):
+    geracao = 0
+    populacao = criarPopulacaoInicial(nIndividuosPopInicial)
+    fitness(populacao)
+    print("DADOS DA GERAÇÃO #" + str(geracao))
+    print("Média de fitness" + str(midFitness(populacao)))
+    print("Máximo de fitness" + str(maxFitness(populacao)))
+    print("Mínimo de fitness" + str(minFitness(populacao))+ '\n')
+    
+    for geracao in range(1, nGeracoes):        
+        populacao = crossOver(populacao, nCruzamentos)
+        populacao = mutacao(populacao, porcentagemMutacao)
+        fitness(populacao)
+        populacao = selecao(nIndividuosPopInicial, populacao)
+        print("DADOS DA GERAÇÃO #" + str(geracao))
+        print("Média de fitness" + str(midFitness(populacao)))
+        print("Máximo de fitness" + str(maxFitness(populacao)))
+        print("Mínimo de fitness" + str(minFitness(populacao))+'\n')
+        
+criarG1(20,10,10,10)
