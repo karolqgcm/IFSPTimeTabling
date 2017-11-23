@@ -132,4 +132,3 @@ def criarG1(nIndividuosPopInicial, nCruzamentos, porcentagemMutacao, nGeracoes):
         
 populacaoG1 = criarG1(20,10,10,10)
 
-print(populacaoG1)

@@ -1,52 +1,53 @@
 Criar população AG2
 Criar individuos AG2
-[[['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Henrique', 'DW2'], ['Luciana', 'TOP'], 300], 0]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'TOP'], ['Henrique', 'PI2'], 150], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], 0]
 Criar individuos AG2
-[[['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], 0]
+[[['Mario', 'PI2'], ['Mario', 'PI2'], 350], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Nelson', 'SEG'], ['Mario', 'SEG'], 55], 0]
 Criar individuos AG2
-[[['Mario', 'DW2'], ['Mario', 'SEG'], 80], [['Luciana', 'PI2'], ['Mario', 'DW2'], 150], [['Mario', 'DW2'], ['Mario', 'SEG'], 80], [['Luciana', 'PI2'], ['Mario', 'DW2'], 150], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], 0]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 0]
 Criar individuos AG2
-[[['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Mario', 'PI2'], ['Mario', 'PI2'], 350], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 0]
 Criar individuos AG2
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
+[[['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Mario', 'PI2'], ['Henrique', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], 0]
 Criar individuos AG2
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Nelson', 'SEG'], ['Mario', 'SEG'], 75], [['Nelson', 'SEG'], ['Mario', 'PI2'], 300], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'PI2'], 270], 0]
 Criar individuos AG2
-[[['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Luciana', 'PI2'], ['Nelson', 'SEG'], 270], 0]
+[[['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Nelson', 'SEG'], ['Mario', 'DW2'], 225], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Mario', 'PI2'], ['Henrique', 'TOP'], 270], 0]
 Criar individuos AG2
-[[['Mario', 'PI2'], ['Luciana', 'SEG'], 135], [['Nelson', 'SEG'], ['Mario', 'PI2'], 300], [['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
+[[['Mario', 'TOP'], ['Nelson', 'PI2'], 135], [['Henrique', 'DW2'], ['Mario', 'DW2'], 390], [['Nelson', 'DW2'], ['Mario', 'PI2'], 270], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 0]
 Criar individuos AG2
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'PI2'], ['Luciana', 'SEG'], 135], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], 0]
+[[['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Nelson', 'SEG'], ['Mario', 'SEG'], 55], [['Henrique', 'DW2'], ['Nelson', 'TOP'], 80], [['Luciana', 'TOP'], ['Henrique', 'PI2'], 150], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], 0]
 Criar individuos AG2
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], 0]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Nelson', 'DW2'], ['Henrique', 'DW2'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], 0]
 Fazer crossover AG2
 Novo individuo por crossover: 
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 0]
 Novo individuo por crossover: 
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 0]
 Novo individuo por crossover: 
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 0]
 Novo individuo por crossover: 
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 0]
+Novo individuo por crossover: 
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], 0]
 Mutação AG2
 individuo mutado AG2
-[[['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], 0]
 individuo mutado AG2
-[[['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'PI2'], ['Luciana', 'SEG'], 135], 0]
-individuo mutado AG2
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], 0]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 0]
 POPULACAO AG2 
-[[['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
-[[['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'PI2'], ['Luciana', 'SEG'], 135], 0]
-[[['Mario', 'DW2'], ['Mario', 'SEG'], 80], [['Luciana', 'PI2'], ['Mario', 'DW2'], 150], [['Mario', 'DW2'], ['Mario', 'SEG'], 80], [['Luciana', 'PI2'], ['Mario', 'DW2'], 150], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], 0]
-[[['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Nelson', 'SEG'], ['Mario', 'SEG'], 75], [['Nelson', 'SEG'], ['Mario', 'PI2'], 300], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
-[[['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'SEG'], ['Luciana', 'PI2'], 150], [['Luciana', 'PI2'], ['Nelson', 'SEG'], 270], 0]
-[[['Mario', 'PI2'], ['Luciana', 'SEG'], 135], [['Nelson', 'SEG'], ['Mario', 'PI2'], 300], [['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Luciana', 'PI2'], ['Nelson', 'TOP'], 140], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], 0]
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 230], [['Mario', 'PI2'], ['Luciana', 'SEG'], 135], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], 0]
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'TOP'], ['Henrique', 'TOP'], 55], [['Henrique', 'PI2'], ['Mario', 'DW2'], 120], 0]
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
-[[['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'TOP'], ['Luciana', 'TOP'], 110], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
-[[['Mario', 'SEG'], ['Nelson', 'TOP'], 90], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Mario', 'PI2'], ['Henrique', 'SEG'], 150], [['Mario', 'TOP'], ['Nelson', 'DW2'], 300], [['Mario', 'SEG'], ['Nelson', 'TOP'], 90], 0]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'TOP'], ['Henrique', 'PI2'], 150], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], 1935]
+[[['Mario', 'PI2'], ['Mario', 'PI2'], 350], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Nelson', 'SEG'], ['Mario', 'SEG'], 55], 1040]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], 2175]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Mario', 'PI2'], ['Mario', 'PI2'], 350], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 1150]
+[[['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Mario', 'PI2'], ['Henrique', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], 1925]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'PI2'], 270], 1935]
+[[['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Nelson', 'SEG'], ['Luciana', 'SEG'], 80], [['Nelson', 'SEG'], ['Mario', 'DW2'], 225], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Mario', 'PI2'], ['Henrique', 'TOP'], 270], 1825]
+[[['Mario', 'TOP'], ['Nelson', 'PI2'], 135], [['Henrique', 'DW2'], ['Mario', 'DW2'], 390], [['Nelson', 'DW2'], ['Mario', 'PI2'], 270], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 1050]
+[[['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Nelson', 'SEG'], ['Mario', 'SEG'], 55], [['Henrique', 'DW2'], ['Nelson', 'TOP'], 80], [['Luciana', 'TOP'], ['Henrique', 'PI2'], 150], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], 1755]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Nelson', 'DW2'], ['Henrique', 'DW2'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], 2035]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 990]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], [['Henrique', 'PI2'], ['Nelson', 'DW2'], 135], 1775]
+[[['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 1965]
+[[['Mario', 'PI2'], ['Mario', 'SEG'], 130], [['Nelson', 'DW2'], ['Mario', 'TOP'], 165], [['Mario', 'PI2'], ['Nelson', 'DW2'], 240], [['Luciana', 'PI2'], ['Nelson', 'DW2'], 300], [['Mario', 'PI2'], ['Mario', 'SEG'], 130], 1965]
+[[['Henrique', 'DW2'], ['Mario', 'PI2'], 240], [['Luciana', 'PI2'], ['Henrique', 'DW2'], 270], [['Nelson', 'SEG'], ['Nelson', 'DW2'], 100], [['Nelson', 'DW2'], ['Mario', 'TOP'], 270], [['Mario', 'TOP'], ['Nelson', 'PI2'], 135], 2085]
