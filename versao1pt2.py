@@ -48,7 +48,9 @@ def mutacaoG2(populacaoAG1,populacaoAG2,porcentagemMutacaoAG2):
             f.write(str(individuo)+"\n")            
     return populacaoAG2
 
-def selecaoG2():
+def selecaoG2(numeroIndividuos, populacao):
+    populacao.sort(key=lambda x: x[-1], reverse=True)    
+    populacao = populacao[:numeroIndividuos]
     return populacao
 
 def fitnessG2(populacaoAG2, dictCargaTurma, dictProfessores):
@@ -159,10 +161,11 @@ print("x-----x-----x-----x")
 
 pop2 = fitnessG2(pop2, pt1.dictCargaTurma, pt1.dictProfessores)
 print("x-----x-----x-----x")
-print(pop2)
+pop2 = selecaoG2(10,pop2)
+
 
 f.write("POPULACAO AG2 \n")
 for i in pop2:
-    f.write(str(i)+ '\n')
+    print(str(i)+ '\n')
 
 

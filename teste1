@@ -1,648 +1,638 @@
 Criar população AG1
 Criar individuos AG1
-[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
+[['Henrique', 'SEG'], ['Henrique', 'TOP'], 0]
 Criar individuos AG1
-[['Henrique', 'PI2'], ['Luciana', 'DW2'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Criar individuos AG1
-[['Luciana', 'TOP'], ['Henrique', 'SEG'], 0]
+[['Luciana', 'SEG'], ['Nelson', 'PI2'], 0]
 Criar individuos AG1
-[['Nelson', 'TOP'], ['Mario', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Nelson', 'DW2'], 0]
 Criar individuos AG1
-[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+[['Mario', 'PI2'], ['Mario', 'DW2'], 0]
 Criar individuos AG1
-[['Henrique', 'PI2'], ['Nelson', 'SEG'], 0]
+[['Henrique', 'SEG'], ['Henrique', 'DW2'], 0]
 Criar individuos AG1
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
+[['Mario', 'SEG'], ['Luciana', 'DW2'], 0]
 Criar individuos AG1
-[['Nelson', 'SEG'], ['Henrique', 'DW2'], 0]
+[['Mario', 'DW2'], ['Luciana', 'SEG'], 0]
 Criar individuos AG1
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
+[['Nelson', 'DW2'], ['Luciana', 'SEG'], 0]
 Criar individuos AG1
-[['Luciana', 'SEG'], ['Henrique', 'TOP'], 0]
+[['Henrique', 'TOP'], ['Nelson', 'DW2'], 0]
 Criar individuos AG1
-[['Henrique', 'DW2'], ['Luciana', 'DW2'], 0]
+[['Henrique', 'TOP'], ['Luciana', 'SEG'], 0]
 Criar individuos AG1
-[['Henrique', 'PI2'], ['Mario', 'TOP'], 0]
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
 Criar individuos AG1
-[['Henrique', 'DW2'], ['Henrique', 'TOP'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'SEG'], 0]
 Criar individuos AG1
-[['Henrique', 'DW2'], ['Mario', 'TOP'], 0]
+[['Luciana', 'TOP'], ['Mario', 'PI2'], 0]
 Criar individuos AG1
-[['Mario', 'DW2'], ['Luciana', 'TOP'], 0]
+[['Luciana', 'SEG'], ['Nelson', 'SEG'], 0]
 Criar individuos AG1
-[['Mario', 'PI2'], ['Luciana', 'SEG'], 0]
+[['Mario', 'PI2'], ['Nelson', 'SEG'], 0]
 Criar individuos AG1
-[['Mario', 'TOP'], ['Henrique', 'SEG'], 0]
-Criar individuos AG1
-[['Nelson', 'TOP'], ['Nelson', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Nelson', 'TOP'], 0]
 Criar individuos AG1
 [['Mario', 'SEG'], ['Henrique', 'SEG'], 0]
 Criar individuos AG1
-[['Henrique', 'PI2'], ['Mario', 'PI2'], 0]
+[['Luciana', 'DW2'], ['Henrique', 'DW2'], 0]
+Criar individuos AG1
+[['Henrique', 'TOP'], ['Nelson', 'SEG'], 0]
 DADOS DA GERAÇÃO #0
 Média de fitness8
 Máximo de fitness50
 Mínimo de fitness-20
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
+[['Henrique', 'SEG'], ['Nelson', 'TOP'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Nelson', 'DW2'], 0]
+[['Henrique', 'SEG'], ['Mario', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'DW2'], 0]
+[['Henrique', 'SEG'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'SEG'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Henrique', 'PI2'], 30]
-individuo mutado AG1
-[['Mario', 'TOP'], ['Henrique', 'SEG'], 15]
-DADOS DA GERAÇÃO #1
-Média de fitness27
-Máximo de fitness100
-Mínimo de fitness0
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'TOP'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'DW2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Luciana', 'PI2'], 60]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 30]
-individuo mutado AG1
-[['Luciana', 'TOP'], ['Henrique', 'PI2'], 0]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
-DADOS DA GERAÇÃO #2
-Média de fitness47
-Máximo de fitness150
-Mínimo de fitness15
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Mario', 'DW2'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Mario', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'DW2'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Henrique', 'PI2'], ['Henrique', 'TOP'], 0]
-individuo mutado AG1
-[['Nelson', 'TOP'], ['Henrique', 'DW2'], 0]
-individuo mutado AG1
-[['Nelson', 'TOP'], ['Luciana', 'TOP'], 0]
-DADOS DA GERAÇÃO #3
-Média de fitness69
-Máximo de fitness200
-Mínimo de fitness30
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'TOP'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Henrique', 'PI2'], ['Nelson', 'PI2'], 60]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 45]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Mario', 'TOP'], 0]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'SEG'], 0]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Nelson', 'SEG'], 0]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Luciana', 'DW2'], 0]
-DADOS DA GERAÇÃO #4
-Média de fitness90
-Máximo de fitness250
-Mínimo de fitness50
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Luciana', 'TOP'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Mario', 'PI2'], 0]
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Luciana', 'TOP'], ['Nelson', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 90]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Mario', 'DW2'], 90]
-DADOS DA GERAÇÃO #5
-Média de fitness115
-Máximo de fitness300
-Mínimo de fitness60
-Fazer crossover AG1
+[['Luciana', 'TOP'], ['Henrique', 'TOP'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'TOP'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Mario', 'DW2'], 105]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Henrique', 'TOP'], 60]
-individuo mutado AG1
-[['Nelson', 'TOP'], ['Luciana', 'PI2'], 0]
-DADOS DA GERAÇÃO #6
-Média de fitness139
-Máximo de fitness350
-Mínimo de fitness55
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Luciana', 'TOP'], 0]
+[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Luciana', 'TOP'], ['Mario', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'TOP'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
 [['Mario', 'PI2'], ['Mario', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Luciana', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-DADOS DA GERAÇÃO #7
-Média de fitness164
-Máximo de fitness400
-Mínimo de fitness50
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Luciana', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'SEG'], 0]
 Mutação AG1
 individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'SEG'], 400]
+[['Luciana', 'TOP'], ['Luciana', 'SEG'], 30]
 individuo mutado AG1
-[['Luciana', 'TOP'], ['Henrique', 'SEG'], 120]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'SEG'], 120]
-individuo mutado AG1
-[['Nelson', 'TOP'], ['Mario', 'PI2'], 105]
-DADOS DA GERAÇÃO #8
-Média de fitness184
-Máximo de fitness400
-Mínimo de fitness50
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Mario', 'DW2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'DW2'], ['Mario', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'SEG'], 0]
-DADOS DA GERAÇÃO #9
-Média de fitness208
-Máximo de fitness450
-Mínimo de fitness100
-Criar população AG1
-Criar individuos AG1
-[['Nelson', 'PI2'], ['Luciana', 'SEG'], 0]
-Criar individuos AG1
-[['Henrique', 'DW2'], ['Henrique', 'SEG'], 0]
-Criar individuos AG1
-[['Luciana', 'DW2'], ['Luciana', 'TOP'], 0]
-Criar individuos AG1
-[['Henrique', 'TOP'], ['Henrique', 'PI2'], 0]
-Criar individuos AG1
-[['Mario', 'DW2'], ['Mario', 'PI2'], 0]
-Criar individuos AG1
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
-Criar individuos AG1
-[['Henrique', 'TOP'], ['Mario', 'TOP'], 0]
-Criar individuos AG1
-[['Mario', 'TOP'], ['Mario', 'PI2'], 0]
-Criar individuos AG1
-[['Henrique', 'TOP'], ['Henrique', 'PI2'], 0]
-Criar individuos AG1
-[['Nelson', 'DW2'], ['Mario', 'SEG'], 0]
-Criar individuos AG1
-[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
-Criar individuos AG1
-[['Luciana', 'TOP'], ['Henrique', 'TOP'], 0]
-Criar individuos AG1
-[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
-Criar individuos AG1
-[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
-Criar individuos AG1
 [['Luciana', 'TOP'], ['Henrique', 'PI2'], 0]
-Criar individuos AG1
-[['Nelson', 'SEG'], ['Henrique', 'DW2'], 0]
-Criar individuos AG1
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Criar individuos AG1
-[['Mario', 'PI2'], ['Nelson', 'PI2'], 0]
-Criar individuos AG1
-[['Henrique', 'PI2'], ['Mario', 'TOP'], 0]
-Criar individuos AG1
-[['Nelson', 'DW2'], ['Henrique', 'SEG'], 0]
-DADOS DA GERAÇÃO #0
-Média de fitness7
-Máximo de fitness50
-Mínimo de fitness-20
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'DW2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'DW2'], -5]
-individuo mutado AG1
-[['Henrique', 'TOP'], ['Henrique', 'PI2'], 0]
 DADOS DA GERAÇÃO #1
-Média de fitness29
+Média de fitness26
 Máximo de fitness100
 Mínimo de fitness-5
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
+[['Henrique', 'TOP'], ['Luciana', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Henrique', 'DW2'], 0]
+[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Nelson', 'DW2'], 0]
+[['Henrique', 'TOP'], ['Nelson', 'TOP'], 0]
 Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'PI2'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Henrique', 'PI2'], ['Luciana', 'DW2'], 30]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
-individuo mutado AG1
-[['Mario', 'TOP'], ['Nelson', 'SEG'], 0]
-DADOS DA GERAÇÃO #2
-Média de fitness53
-Máximo de fitness150
-Mínimo de fitness30
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'TOP'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'TOP'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'SEG'], ['Luciana', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'SEG'], ['Nelson', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'SEG'], ['Nelson', 'DW2'], 0]
 Mutação AG1
 individuo mutado AG1
-[['Nelson', 'SEG'], ['Henrique', 'SEG'], 90]
+[['Luciana', 'SEG'], ['Luciana', 'PI2'], 0]
+DADOS DA GERAÇÃO #2
+Média de fitness47
+Máximo de fitness150
+Mínimo de fitness0
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
+Mutação AG1
 individuo mutado AG1
-[['Mario', 'TOP'], ['Henrique', 'TOP'], 30]
+[['Mario', 'PI2'], ['Henrique', 'PI2'], 90]
 individuo mutado AG1
-[['Nelson', 'DW2'], ['Nelson', 'PI2'], 30]
+[['Mario', 'PI2'], ['Luciana', 'SEG'], 60]
 individuo mutado AG1
-[['Mario', 'TOP'], ['Nelson', 'PI2'], 30]
+[['Luciana', 'TOP'], ['Luciana', 'SEG'], 0]
 individuo mutado AG1
-[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+[['Nelson', 'DW2'], ['Mario', 'TOP'], 0]
 DADOS DA GERAÇÃO #3
-Média de fitness75
+Média de fitness68
 Máximo de fitness200
 Mínimo de fitness30
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+[['Mario', 'PI2'], ['Nelson', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'DW2'], 0]
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'TOP'], 0]
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'PI2'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'SEG'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Luciana', 'DW2'], 90]
-individuo mutado AG1
-[['Henrique', 'PI2'], ['Nelson', 'TOP'], 30]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Nelson', 'SEG'], 0]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Nelson', 'TOP'], 0]
-DADOS DA GERAÇÃO #4
-Média de fitness99
-Máximo de fitness250
-Mínimo de fitness50
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Nelson', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'TOP'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
+[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'SEG'], 0]
+[['Nelson', 'DW2'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Luciana', 'SEG'], 0]
 Mutação AG1
 individuo mutado AG1
-[['Nelson', 'DW2'], ['Nelson', 'SEG'], 0]
+[['Henrique', 'TOP'], ['Henrique', 'SEG'], 60]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 45]
+individuo mutado AG1
+[['Mario', 'PI2'], ['Luciana', 'PI2'], 0]
+DADOS DA GERAÇÃO #4
+Média de fitness91
+Máximo de fitness250
+Mínimo de fitness45
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'SEG'], ['Nelson', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Nelson', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'TOP'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 80]
+individuo mutado AG1
+[['Luciana', 'PI2'], ['Nelson', 'TOP'], 0]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Henrique', 'PI2'], 0]
 DADOS DA GERAÇÃO #5
-Média de fitness125
+Média de fitness120
 Máximo de fitness300
 Mínimo de fitness60
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'PI2'], 0]
+[['Luciana', 'PI2'], ['Nelson', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Nelson', 'PI2'], 0]
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Henrique', 'PI2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'TOP'], 0]
-Mutação AG1
-individuo mutado AG1
-[['Mario', 'PI2'], ['Mario', 'SEG'], 150]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Luciana', 'SEG'], 100]
-individuo mutado AG1
-[['Nelson', 'DW2'], ['Henrique', 'DW2'], 90]
-individuo mutado AG1
-[['Nelson', 'DW2'], ['Mario', 'PI2'], 0]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Nelson', 'DW2'], 0]
-DADOS DA GERAÇÃO #6
-Média de fitness145
-Máximo de fitness350
-Mínimo de fitness70
-Fazer crossover AG1
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Luciana', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Luciana', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Nelson', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Mario', 'PI2'], 0]
+[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'TOP'], 0]
+[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Mutação AG1
 individuo mutado AG1
-[['Luciana', 'PI2'], ['Nelson', 'DW2'], 210]
-DADOS DA GERAÇÃO #7
-Média de fitness165
-Máximo de fitness400
-Mínimo de fitness65
+[['Mario', 'PI2'], ['Henrique', 'TOP'], 105]
+individuo mutado AG1
+[['Luciana', 'PI2'], ['Nelson', 'DW2'], 90]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
+DADOS DA GERAÇÃO #6
+Média de fitness149
+Máximo de fitness350
+Mínimo de fitness75
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Henrique', 'PI2'], ['Luciana', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Mario', 'PI2'], ['Henrique', 'SEG'], 140]
+individuo mutado AG1
+[['Luciana', 'PI2'], ['Mario', 'PI2'], 120]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Luciana', 'TOP'], 90]
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Nelson', 'PI2'], 0]
+DADOS DA GERAÇÃO #7
+Média de fitness179
+Máximo de fitness400
+Mínimo de fitness90
+Fazer crossover AG1
 Novo individuo por crossover: 
 [['Mario', 'PI2'], ['Luciana', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'SEG'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'PI2'], 0]
+[['Nelson', 'DW2'], ['Luciana', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Henrique', 'PI2'], 0]
+[['Mario', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+[['Luciana', 'PI2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Luciana', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'SEG'], ['Mario', 'PI2'], 0]
+[['Luciana', 'TOP'], ['Henrique', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+[['Luciana', 'TOP'], ['Luciana', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'PI2'], ['Luciana', 'SEG'], 0]
 Mutação AG1
 individuo mutado AG1
-[['Henrique', 'DW2'], ['Mario', 'DW2'], 400]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Henrique', 'TOP'], 240]
-individuo mutado AG1
-[['Luciana', 'TOP'], ['Henrique', 'PI2'], 120]
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Mario', 'SEG'], 65]
-individuo mutado AG1
-[['Mario', 'PI2'], ['Nelson', 'DW2'], 0]
-individuo mutado AG1
 [['Nelson', 'DW2'], ['Luciana', 'PI2'], 0]
+individuo mutado AG1
+[['Luciana', 'PI2'], ['Luciana', 'PI2'], 0]
 DADOS DA GERAÇÃO #8
-Média de fitness181
-Máximo de fitness395
-Mínimo de fitness60
+Média de fitness208
+Máximo de fitness450
+Mínimo de fitness105
 Fazer crossover AG1
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'SEG'], 0]
+[['Henrique', 'SEG'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Henrique', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'PI2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'DW2'], ['Nelson', 'DW2'], 0]
 Novo individuo por crossover: 
 [['Luciana', 'PI2'], ['Mario', 'PI2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Mario', 'DW2'], 0]
+[['Nelson', 'DW2'], ['Nelson', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Mario', 'PI2'], ['Mario', 'PI2'], 0]
+[['Nelson', 'DW2'], ['Henrique', 'DW2'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Luciana', 'DW2'], 0]
+[['Nelson', 'DW2'], ['Henrique', 'SEG'], 0]
 Novo individuo por crossover: 
-[['Nelson', 'DW2'], ['Luciana', 'DW2'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Mario', 'SEG'], 0]
-Novo individuo por crossover: 
-[['Luciana', 'PI2'], ['Mario', 'SEG'], 0]
+[['Nelson', 'DW2'], ['Luciana', 'SEG'], 0]
 Mutação AG1
-individuo mutado AG1
-[['Nelson', 'SEG'], ['Mario', 'DW2'], 210]
-individuo mutado AG1
-[['Nelson', 'DW2'], ['Mario', 'TOP'], 135]
-individuo mutado AG1
-[['Henrique', 'DW2'], ['Nelson', 'TOP'], 65]
 individuo mutado AG1
 [['Luciana', 'PI2'], ['Nelson', 'TOP'], 0]
 DADOS DA GERAÇÃO #9
-Média de fitness199
-Máximo de fitness390
-Mínimo de fitness55
+Média de fitness238
+Máximo de fitness500
+Mínimo de fitness120
+Criar população AG1
+Criar individuos AG1
+[['Mario', 'TOP'], ['Henrique', 'PI2'], 0]
+Criar individuos AG1
+[['Henrique', 'DW2'], ['Luciana', 'TOP'], 0]
+Criar individuos AG1
+[['Luciana', 'SEG'], ['Nelson', 'SEG'], 0]
+Criar individuos AG1
+[['Henrique', 'SEG'], ['Nelson', 'PI2'], 0]
+Criar individuos AG1
+[['Henrique', 'TOP'], ['Luciana', 'PI2'], 0]
+Criar individuos AG1
+[['Mario', 'TOP'], ['Henrique', 'TOP'], 0]
+Criar individuos AG1
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Criar individuos AG1
+[['Henrique', 'DW2'], ['Henrique', 'SEG'], 0]
+Criar individuos AG1
+[['Henrique', 'SEG'], ['Henrique', 'DW2'], 0]
+Criar individuos AG1
+[['Mario', 'TOP'], ['Henrique', 'PI2'], 0]
+Criar individuos AG1
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Criar individuos AG1
+[['Luciana', 'TOP'], ['Henrique', 'TOP'], 0]
+Criar individuos AG1
+[['Nelson', 'TOP'], ['Mario', 'DW2'], 0]
+Criar individuos AG1
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
+Criar individuos AG1
+[['Luciana', 'TOP'], ['Luciana', 'PI2'], 0]
+Criar individuos AG1
+[['Luciana', 'DW2'], ['Henrique', 'DW2'], 0]
+Criar individuos AG1
+[['Henrique', 'PI2'], ['Luciana', 'DW2'], 0]
+Criar individuos AG1
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Criar individuos AG1
+[['Luciana', 'SEG'], ['Luciana', 'DW2'], 0]
+Criar individuos AG1
+[['Mario', 'SEG'], ['Luciana', 'SEG'], 0]
+DADOS DA GERAÇÃO #0
+Média de fitness3
+Máximo de fitness30
+Mínimo de fitness-20
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Nelson', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Henrique', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Nelson', 'TOP'], ['Henrique', 'PI2'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Mario', 'TOP'], ['Nelson', 'PI2'], 15]
+individuo mutado AG1
+[['Henrique', 'PI2'], ['Henrique', 'SEG'], 0]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Nelson', 'PI2'], 0]
+DADOS DA GERAÇÃO #1
+Média de fitness18
+Máximo de fitness60
+Mínimo de fitness0
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'TOP'], ['Luciana', 'PI2'], 0]
+DADOS DA GERAÇÃO #2
+Média de fitness31
+Máximo de fitness90
+Mínimo de fitness0
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'SEG'], ['Henrique', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Nelson', 'PI2'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 60]
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Nelson', 'DW2'], 45]
+individuo mutado AG1
+[['Henrique', 'TOP'], ['Luciana', 'SEG'], 0]
+individuo mutado AG1
+[['Nelson', 'TOP'], ['Henrique', 'PI2'], 0]
+DADOS DA GERAÇÃO #3
+Média de fitness49
+Máximo de fitness120
+Mínimo de fitness15
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Luciana', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 110]
+individuo mutado AG1
+[['Mario', 'TOP'], ['Luciana', 'PI2'], 60]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+DADOS DA GERAÇÃO #4
+Média de fitness65
+Máximo de fitness150
+Mínimo de fitness30
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Luciana', 'SEG'], 105]
+individuo mutado AG1
+[['Mario', 'TOP'], ['Nelson', 'DW2'], 90]
+individuo mutado AG1
+[['Henrique', 'TOP'], ['Luciana', 'TOP'], 45]
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Nelson', 'TOP'], 0]
+DADOS DA GERAÇÃO #5
+Média de fitness83
+Máximo de fitness180
+Mínimo de fitness40
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'TOP'], ['Nelson', 'TOP'], 90]
+individuo mutado AG1
+[['Mario', 'TOP'], ['Henrique', 'PI2'], 75]
+DADOS DA GERAÇÃO #6
+Média de fitness99
+Máximo de fitness210
+Mínimo de fitness35
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Nelson', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
+Mutação AG1
+DADOS DA GERAÇÃO #7
+Média de fitness115
+Máximo de fitness240
+Mínimo de fitness50
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Luciana', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Nelson', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'SEG'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Mario', 'SEG'], ['Luciana', 'TOP'], 140]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Luciana', 'TOP'], 75]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Mario', 'TOP'], 75]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Nelson', 'SEG'], 0]
+DADOS DA GERAÇÃO #8
+Média de fitness135
+Máximo de fitness270
+Mínimo de fitness30
+Fazer crossover AG1
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Nelson', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Henrique', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Mario', 'TOP'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'DW2'], ['Henrique', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Luciana', 'TOP'], ['Luciana', 'PI2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'SEG'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Henrique', 'TOP'], ['Mario', 'DW2'], 0]
+Novo individuo por crossover: 
+[['Mario', 'TOP'], ['Luciana', 'TOP'], 0]
+Mutação AG1
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Luciana', 'TOP'], 270]
+individuo mutado AG1
+[['Mario', 'TOP'], ['Luciana', 'TOP'], 210]
+individuo mutado AG1
+[['Mario', 'SEG'], ['Henrique', 'TOP'], 155]
+individuo mutado AG1
+[['Luciana', 'TOP'], ['Luciana', 'TOP'], 125]
+individuo mutado AG1
+[['Henrique', 'DW2'], ['Henrique', 'DW2'], 0]
+individuo mutado AG1
+[['Mario', 'TOP'], ['Nelson', 'DW2'], 0]
+DADOS DA GERAÇÃO #9
+Média de fitness155
+Máximo de fitness300
+Mínimo de fitness50
